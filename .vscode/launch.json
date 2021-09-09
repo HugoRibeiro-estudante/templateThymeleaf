@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-TemplateApplication<template>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.iftm.atividade.template.TemplateApplication",
+            "projectName": "template",
+            "args": ""
+        }
+    ]
+}
